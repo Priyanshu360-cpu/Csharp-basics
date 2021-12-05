@@ -1,0 +1,15 @@
+C:\Users\KIIT\Desktop\C sharp\networksdata\networksdata\bin\Debug\net6.0\networksdata.exe
+C:\Users\KIIT\Desktop\C sharp\networksdata\networksdata\bin\Debug\net6.0\networksdata.deps.json
+C:\Users\KIIT\Desktop\C sharp\networksdata\networksdata\bin\Debug\net6.0\networksdata.runtimeconfig.json
+C:\Users\KIIT\Desktop\C sharp\networksdata\networksdata\bin\Debug\net6.0\networksdata.dll
+C:\Users\KIIT\Desktop\C sharp\networksdata\networksdata\bin\Debug\net6.0\ref\networksdata.dll
+C:\Users\KIIT\Desktop\C sharp\networksdata\networksdata\bin\Debug\net6.0\networksdata.pdb
+C:\Users\KIIT\Desktop\C sharp\networksdata\networksdata\obj\Debug\net6.0\networksdata.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\C sharp\networksdata\networksdata\obj\Debug\net6.0\networksdata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\C sharp\networksdata\networksdata\obj\Debug\net6.0\networksdata.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\C sharp\networksdata\networksdata\obj\Debug\net6.0\networksdata.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\C sharp\networksdata\networksdata\obj\Debug\net6.0\networksdata.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\C sharp\networksdata\networksdata\obj\Debug\net6.0\networksdata.dll
+C:\Users\KIIT\Desktop\C sharp\networksdata\networksdata\obj\Debug\net6.0\ref\networksdata.dll
+C:\Users\KIIT\Desktop\C sharp\networksdata\networksdata\obj\Debug\net6.0\networksdata.pdb
+C:\Users\KIIT\Desktop\C sharp\networksdata\networksdata\obj\Debug\net6.0\networksdata.genruntimeconfig.cache
