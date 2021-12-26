@@ -1,4 +1,4 @@
-﻿class addsub
+class addsub
 {
     
 
@@ -29,14 +29,17 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Calculator\nPress 1 to add numbers\nPress 2 to sub numbers\n Press 3 to multi numbers\nPress 4 to divi numbers");
-        var a = Console.ReadLine();
+        
         Console.WriteLine("enter first number");
         var b = Console.ReadLine();
         Console.WriteLine("Enter Second number");
         var c = Console.ReadLine();
+        repeat:
+        Console.WriteLine("Calculator\nPress 1 to add numbers\nPress 2 to sub numbers\nPress 3 to multi numbers\nPress 4 to divi numbers");
+        var a = Console.ReadLine();
         switch (a)
         {
+
             case "1":
                 addsub d = new addsub();
                 d.Sum(b, c);
@@ -51,6 +54,11 @@ class Program
             case "4":
                 multidiv.div(b, c);
                 break;
+            default:
+                Console.WriteLine("Wrong choice");
+                goto repeat;
+                break;
+            
         }
     }
 }
